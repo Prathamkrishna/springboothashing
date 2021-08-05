@@ -1,7 +1,5 @@
 package practiceproject.springproject.productdata;
 
-import practiceproject.springproject.productdata.productdata;
-
 public class productdetails {
 
     public String addProduct(int[] device){
